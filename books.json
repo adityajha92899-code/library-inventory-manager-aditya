@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "111",
+        "status": "available"
+    },
+    {
+        "title": "harry potter",
+        "author": " J.K. Rowling",
+        "isbn": "222",
+        "status": "available"
+    },
+    {
+        "title": "The Psychology of Money",
+        "author": " Morgan Housel",
+        "isbn": "444",
+        "status": "available"
+    },
+    {
+        "title": "Ikigai",
+        "author": "Hector Garcia",
+        "isbn": "555",
+        "status": "available"
+    }
+]
