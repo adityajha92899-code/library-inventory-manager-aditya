@@ -1,3 +1,28 @@
+# Library Inventory Manager (Python Mini Project)
+
+## Student Details
+- Name: Aditya Jha  
+- Course: B.Tech CSE  
+- Subject: Programming for Problem Solving using Python  
+
+## Project Overview
+This is a simple command-line based **Library Inventory Manager**.  
+It uses Python classes and a JSON file to manage books in a small library.  
+From the menu you can add books, issue them, return them, search and view all.
+
+## Features
+- Add new books with title, author and ISBN  
+- Issue a book (status changes to `issued`)  
+- Return a book (status changes back to `available`)  
+- Search a book by title  
+- View all books currently in the catalog  
+- Data is stored in `books.json` so it is saved even after program closes  
+
+## How to Run
+```bash
+python main.py
+
+  
  Output Screenshots:
  
  1. Add Book :
@@ -14,5 +39,6 @@
 
 5 .View All Books :
 <img width="920" height="333" alt="View All Books" src="https://github.com/user-attachments/assets/e4b3f7ea-f217-49c9-bd06-ec21bef29c9e" />
+
 
 
